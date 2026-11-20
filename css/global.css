@@ -1,0 +1,8 @@
+/*globales styling für die Kopfzeile*/
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    background-color: red;
+}
