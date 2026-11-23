@@ -1,6 +1,9 @@
 #einfuehrung {
   display: flex;
   flex-direction: column;
+  height: 50vh;
+  width: 40vw;
+  justify-content: center;
 }
 
 
@@ -26,7 +29,7 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  margin-bottom: 20vh;
+  margin-bottom: 5vh;
 }
 
 
