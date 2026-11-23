@@ -11,6 +11,6 @@ fetch(pfad)
         return response.text();
     })
     .then(data => {
-        document.getElementById("kopfzeile").innerHTML = data;
+        document.getElementById("global-fetch-kopfzeile").innerHTML = data;
     })
     .catch(error => console.error(error));
