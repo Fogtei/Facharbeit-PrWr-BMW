@@ -33,12 +33,14 @@
 #drei-d-modell {
   /*height wenn das 3d modell verhanden ist*/
   /*height: fit-content;*/
-  height: 40vw;
-  width: 30vw;
+  height: 30vw;
+  width: 40vw;
   background-color: darkgray;
+  /*margin-right: 10vw;*/
 }
 
 #zeitstrahl-vorschau {
+  margin: auto;
   height: 20vh;
   width: 80vw;
   background-color: lightcoral;
