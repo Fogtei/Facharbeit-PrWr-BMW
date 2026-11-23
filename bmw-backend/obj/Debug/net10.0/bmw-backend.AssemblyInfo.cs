@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bmw-backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74998d7c81ba013d6bcf3b115b7a751046ac3142")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5726a0e5bf7304ec3a7bfcdfb282903a7a17a40")]
 [assembly: System.Reflection.AssemblyProductAttribute("bmw-backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bmw-backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
