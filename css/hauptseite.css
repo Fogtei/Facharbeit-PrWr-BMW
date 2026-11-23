@@ -5,19 +5,35 @@
 
 
 #titel {
-  width: 0.3vw;
+  width: 30vw;
   height: fit-content;
   background-color: lightcoral;
 }
 
 #beschreibung {
-  width: 0.4vw;
+  width: 40vw;
   height: fit-content;
   background-color: lightcoral;
 }
 
 #klick-mich {
-  width: 0.15vw;
+  width: 15vw;
   height: fit-content;
   background-color: lightcoral;
+}
+
+#haupt-verpacker {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  /*background-color: coral;*/
+}
+
+
+#drei-d-modell {
+  /*height wenn das 3d modell verhanden ist*/
+  /*height: fit-content;*/
+  height: 30vw;
+  width: 40vw;
+  background-color: darkgray;
 }
