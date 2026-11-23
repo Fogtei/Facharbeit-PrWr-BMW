@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "DqpBEBBsiSc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Boriss\\IDAF BMW Website\\Facharbeit-PrWr-BMW\\bmw-backend\\bmw-backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Boriss\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0\\microsoft.entityframeworkcore.9.0.0.nupkg.sha512",
+    "C:\\Users\\Boriss\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0\\microsoft.entityframeworkcore.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Boriss\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.0\\microsoft.entityframeworkcore.analyzers.9.0.0.nupkg.sha512",
+    "C:\\Users\\Boriss\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.0\\microsoft.entityframeworkcore.relational.9.0.0.nupkg.sha512",
+    "C:\\Users\\Boriss\\.nuget\\packages\\mysqlconnector\\2.4.0\\mysqlconnector.2.4.0.nupkg.sha512",
+    "C:\\Users\\Boriss\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\9.0.0\\pomelo.entityframeworkcore.mysql.9.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Das Paket \"MySqlConnector\" 2.4.0 weist eine bekannte Moderat Schweregrad-Sicherheitsanfälligkeit auf, https://github.com/advisories/GHSA-473q-m89c-ghf8.",
+      "projectPath": "C:\\Users\\Boriss\\IDAF BMW Website\\Facharbeit-PrWr-BMW\\bmw-backend\\bmw-backend.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Boriss\\IDAF BMW Website\\Facharbeit-PrWr-BMW\\bmw-backend\\bmw-backend.csproj",
+      "libraryId": "MySqlConnector",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
