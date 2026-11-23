@@ -26,7 +26,7 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  background-color: coral;
+  /*background-color: coral;*/
 }
 
 
@@ -34,6 +34,6 @@
   /*height wenn das 3d modell verhanden ist*/
   /*height: fit-content;*/
   height: 30vw;
-  width: 50vw;
+  width: 40vw;
   background-color: darkgray;
 }
