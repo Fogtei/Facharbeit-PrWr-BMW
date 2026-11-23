@@ -1,0 +1,11 @@
+#seitennavigation {
+  width: 20vw;
+  height: 80vh;
+  background-color: lightcoral;
+}
+
+#haupt-verpacker {
+  background-color: coral;
+  height: 100px;
+  width: 100px;
+}
