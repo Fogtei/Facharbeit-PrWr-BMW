@@ -6,15 +6,18 @@
 
 #titel {
   width: 0.3vw;
+  height: fit-content;
   background-color: lightcoral;
 }
 
 #beschreibung {
   width: 0.4vw;
+  height: fit-content;
   background-color: lightcoral;
 }
 
 #klick-mich {
   width: 0.15vw;
+  height: fit-content;
   background-color: lightcoral;
 }
