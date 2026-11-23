@@ -1,0 +1,23 @@
+/*globales styling für die Kopfzeile*/
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    background-color: #262626;
+}
+
+#kopfzeile-bmw-text {
+  font-size: 3rem;
+}
+
+/*kopfzeile-bmw-favicon {
+  height: ;
+}*/
+
+kopfzeile-navigation {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
