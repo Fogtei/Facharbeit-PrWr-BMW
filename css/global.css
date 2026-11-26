@@ -13,14 +13,25 @@ header {
   font-size: 3rem;
 }
 
-/*kopfzeile-bmw-favicon {
-  height: ;
-}*/
+#kopfzeile-bmw-favicon {
+  /*height: ;  für später*/
+  margin-right: auto;   /*dass das Logo links ist*/
+  /*https://www.youtube.com/watch?v=wsTv9y931o8 18.56*/
+}
 
-kopfzeile-navigation {
+#kopfzeile-navigation {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  gap: 10px;
+}
+
+.kopfzeile-link {
+  height: fit-content;
+  width: fit-content;
+  background-color: whitesmoke;
+  border-radius: 5%;
+  padding: 5px;
 }
 
 /*CSS Titel Formatierung normalisieren*/
